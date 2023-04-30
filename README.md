@@ -6,4 +6,4 @@ Możliwe jest odczytanie wszystkich kursów z bazy lub konkretnego kursu (przyk�
 
 Endpointy zostały zabezpieczone autoryzacją. By zakutalizować kurs potrzeba podać token updatera lub administratora.
 
-Wersja: Laravel v10.9.0 (PHP v8.2.4)
+Wersja oprogramowania: Laravel v10.9.0 (PHP v8.2.4)
